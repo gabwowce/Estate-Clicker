@@ -10,12 +10,19 @@ Gabrielė Tamaševičiūtė, PI23S
 #### Žaidimo Taisyklės
 
 - Žaidėjai pradeda su 0 $ ir bazine nekilnojamojo turto objektu.
-  ![1](https://github.com/gabwowce/Estate-Clicker/assets/134537965/6eaf636c-194d-47e0-a480-fbf4e507ad13)
+  
+![1](https://github.com/gabwowce/Estate-Clicker/assets/134537965/6eaf636c-194d-47e0-a480-fbf4e507ad13)
+
 - Paspaudus ant nekilnojamojo turto objekto, žaidėjai generuoja pajamas.
+  
 - Už sukauptas pajamas galima įsigyti naujų nekilnojamojo turto objektų ar atlikti esamų atnaujinimus.
-  ![2](https://github.com/gabwowce/Estate-Clicker/assets/134537965/3fbb9d24-946f-4c9c-b8a3-9c7f82ffcbc5)
+  
+![2](https://github.com/gabwowce/Estate-Clicker/assets/134537965/3fbb9d24-946f-4c9c-b8a3-9c7f82ffcbc5)
+
 - Žaidime yra įdiegti "Achievements" (pasiekimai), kurie skatina žaidėjus siekti įvairių tikslų.
+  
 ![3](https://github.com/gabwowce/Estate-Clicker/assets/134537965/60035d9d-3c04-4fa3-97bc-f8b4e9e24a3c)
+
 
 Žaidėjų tikslas – maksimaliai padidinti savo turtą ir išplėsti nekilnojamojo turto portfelį.
 
