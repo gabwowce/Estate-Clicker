@@ -9,7 +9,7 @@ Gabrielė Tamaševičiūtė, PI23S
 
 #### Žaidimo Taisyklės
 
-- Žaidėjai pradeda su 0 $ ir bazine nekilnojamojo turto objektu.
+- Žaidėjai pradeda su 0 $ ir baziniu nekilnojamojo turto objektu.
   
 ![1](https://github.com/gabwowce/Estate-Clicker/assets/134537965/6eaf636c-194d-47e0-a480-fbf4e507ad13)
 
